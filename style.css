@@ -32,7 +32,7 @@ button[type="button"]:hover {
     border: 2px solid purple;
 }
 
-.modal-body, .modal-body p, .modal-title, .modal-header, .modal-footer {
+.modal-body, .modal-body p, .modal-title, .modal-header {
     background-color: white;
     color: darkorchid;
 }
